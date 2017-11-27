@@ -1,3 +1,3 @@
 # AndrewLuckett.github.io
 
-[link](AndrewLuckett.github.io)
+[link](https://andrewluckett.github.io)
