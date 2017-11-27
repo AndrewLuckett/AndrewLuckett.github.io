@@ -2,6 +2,12 @@ body {
     background-color: lightgrey;
 }
 
+.navbar-brand {
+    float; left;
+    min-height: 55 px;
+    padding: 0 15px 5px;
+}
+
 .carousel-inner > .item > img,
 	.carousel-inner > .item > a > img {
 		width: 70%;
@@ -11,3 +17,4 @@ body {
 .carousel-caption > a {
 	color: White;
 }
+
