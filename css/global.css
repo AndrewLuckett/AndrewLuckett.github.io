@@ -11,3 +11,9 @@ body {
 .carousel-caption > a {
 	color: White;
 }
+
+.navbar-brand {
+    float; left;
+    min-height: 55 px;
+    padding: 0 15px 5px;
+}
