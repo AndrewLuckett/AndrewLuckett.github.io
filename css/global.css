@@ -6,17 +6,22 @@ body {
     padding: 0px;
 }
 
-.navbar-brand > img {
-    height: 100%;
+.navbar-brand>img {
+ height: 50px;
 }
 
-.carousel-inner > .item > img,
-	.carousel-inner > .item > a > img {
-		width: 70%;
-		margin: auto;
+.navbar-good {
+    background-color: #222;
+    border-color: #080808;
 }
 
-.carousel-caption > a {
-	color: White;
+.card-deck>.card{
+    min-width: 400px;
+    margin-bottom: 10px;
+}
+
+
+.card-img-top {
+    padding: 5px;
 }
 
