@@ -16,6 +16,10 @@ body {
     padding: 0px;
 }
 
+.card-deck{
+	margin:0px;
+}
+
 .card-deck>.card{
     min-width: 400px;
 	max-width: 830px;
